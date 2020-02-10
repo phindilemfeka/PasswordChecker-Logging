@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoggingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-10T10:26:13" hostname="recruit-ThinkCentre-M73" time="0.391">
+  <properties/>
+  <testcase name="PasswordIsOkTest()" classname="LoggingTest" time="0.391"/>
+  <system-out><![CDATA["12:26:14.291 [Test worker] DEBUG Logging - Password is ok 
+"/>]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
